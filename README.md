@@ -20,6 +20,6 @@ A network consists of 7 nodes n0-n6 connected in ring topology. Each link is a d
 
 <a href="url"><img src="https://github.com/arshitas/Dynamic_Network/blob/main/OUTPUT/Fig%203.png" align="center" height="480" width="720"></a>
 
-**Fig 4** After 2.0s, node n2 is re-established and takes the shortest route
+**Fig 4:** After 2.0s, node n2 is re-established and takes the shortest route
 
 <a href="url"><img src="https://github.com/arshitas/Dynamic_Network/blob/main/OUTPUT/Fig%204.png" align="center" height="480" width="720"></a>

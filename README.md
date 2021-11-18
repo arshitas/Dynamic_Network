@@ -1,7 +1,7 @@
 # Dynamic Network Simulation 
 
 ### Aim
-A network consists of 7 nodes n0-n6 connected in ring topology. Each link is a duplex connection of 10Mbps bandwidth and 10ms latency. Data packets need to be transferred from node n0 to node n3 taking the shortest path. This is a dynamic network where the routing adjusts to link failures as node n2 goes in `sleep mode`. 
+A network consists of 7 nodes n0-n6 connected in ring topology. Each link is a duplex connection of 1Mbps bandwidth and 10ms latency. Data packets need to be transferred from node n0 to node n3 taking the shortest path. This is a dynamic network where the routing adjusts to link failures as node n2 goes in `sleep mode`. 
 
 ### Network Topology
 <a href="url"><img src="https://github.com/arshitas/Dynamic_Network/blob/main/topology.png" align="center" height="480" width="520" ></a>
